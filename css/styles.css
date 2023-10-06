@@ -277,7 +277,7 @@ img {
   margin-bottom: 8px;
   font-size: 36px;
   font-weight: 700;
-  line-height: 1.1;
+  line-height: 1.11;
   letter-spacing: 0.02em;
   text-transform: capitalize;
 }
@@ -473,6 +473,7 @@ img {
 .text-wrapper {
   border: 1px solid #e7e9fc;
   border-top: none;
+  padding: 32px 16px;
 }
 
 .portfolio-text {
