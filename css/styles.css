@@ -1343,6 +1343,14 @@ input {
     padding: 100px 0;
   }
 
+  .div-logo {
+    margin-bottom: 0;
+  }
+
+  .social-media {
+    margin-bottom: 0;
+  }
+
   /* Modal sections */
 
   .modal {
